@@ -7,3 +7,4 @@ npm-debug.log
 \.settings/
 src/config/env.js
 /src/config/config.js
+node_modules
