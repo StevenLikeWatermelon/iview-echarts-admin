@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <!-- import Vue before Element -->
+    <script src="https://unpkg.com/vue/dist/vue.js"></script>
+    <!-- import JavaScript -->
+    <script src="https://unpkg.com/element-ui/lib/index.js"></script>
+    <link rel="stylesheet" href="https://unpkg.com/element-ui/lib/theme-chalk/index.css">
+    <style>
+    .el-header,
+    .el-footer {
+        background-color: #B3C0D1;
+        color: #333;
+        text-align: center;
+        line-height: 60px;
+    }
+
+    .el-main {
+        background-color: #E9EEF3;
+        color: #333;
+    }
+
+    body>.el-container {
+        margin-bottom: 40px;
+    }
+    .box-card {
+    	margin-top: 20px;
+    }
+    #app .el-table th {
+        text-align: center;
+    }
+    </style>
+    <title>服务管理</title>
+</head>
+
+<body>
+    <div id="app">
+        <el-container>
+            <el-header>服务管理</el-header>
+            <el-main>
+                <el-card>
+                    <div>
+                        <el-button type="danger" round @click="killExe">关闭服务</el-button>
+                        <el-button type="success" round  @click="startExe">启动服务</el-button>
+                        <!-- <el-button type="primary" round @click="restartExe">重启服务</el-button> -->
+                        <el-button type="danger" round @click="deleteExe">删除服务</el-button>
+                    </div>
+                </el-card>
+                <el-card class="box-card">
+                    <div slot="header" class="clearfix">
+                        <span>操作日志</span>
+                    </div>
+                    <div>
+                    	<p>{{updateInfo}}</p>
+                    	<p>{{updateData}}</p>
+                    </div>
+                </el-card>
+                <el-card class="box-card">
+                    <div slot="header" class="clearfix">
+                        <span>进程详情</span>
+                    </div>
+                    <div>
+                    	<el-table :data="exeDetailList"  border stripe style="width: 70%;text-align: center;">
+                            <el-table-column prop="appName" label="进程名称"> </el-table-column>
+                            <el-table-column prop="appId" label="进程ID"></el-table-column>
+                            <el-table-column prop="appMode" label="mode"></el-table-column>
+                            <el-table-column prop="appPid" label="pid"></el-table-column>
+                            <el-table-column prop="appStatus" label="状态"></el-table-column>
+                            <el-table-column prop="appRestart" label="重启次数"></el-table-column>
+                            <el-table-column prop="appUptime" label="更新时间"></el-table-column>
+                            <el-table-column prop="appCpu" label="占用cpu"></el-table-column>
+                            <el-table-column prop="appMem" label="占用内存"></el-table-column>
+                            <el-table-column prop="appUser" label="所属用户"></el-table-column>
+                            <el-table-column prop="appWatcher" label="监控状态"></el-table-column>
+                        </el-table>
+                    </div>
+                </el-card>
+            </el-main>
+        </el-container>
+    </div>
+    <script>
+    new Vue({
+        el: '#app',
+        data: {
+            updateInfo: '',
+            updateData: '',
+            exeDetailList: [],
+        },
+        methods: {
+            exeList: function() {
+                axios.get('/list').then(res => {
+                    this.exeDetailList = [];
+                    let tmpArr, tmpRes, tmpObj;
+                    tmpRes = res.data.split("\n");
+                    tmpRes.forEach(item => {
+                        //用root字段判断是否是tbody而不是表头
+                        if (item.includes('root')) {
+                            tmpArr = item.slice(1, -1).split('│');
+                            tmpObj = {
+                                appName: tmpArr[0],
+                                appId: tmpArr[1],
+                                appMode: tmpArr[2],
+                                appPid: tmpArr[3],
+                                appStatus: tmpArr[4],
+                                appRestart: tmpArr[5],
+                                appUptime: tmpArr[6],
+                                appCpu: tmpArr[7],
+                                appMem: tmpArr[8],
+                                appUser: tmpArr[9],
+                                appWatcher: tmpArr[10],
+                            };
+                            this.exeDetailList.push(tmpObj);
+                        }
+                    });
+                });
+            },
+            killExe: function() {
+                axios.get('/stop');
+                this.updateInfo = '关闭成功!';
+            },
+            startExe: function() {
+                const loading = this.$loading({
+                  lock: true,
+                  text: 'Loading',
+                  spinner: 'el-icon-loading',
+                  background: 'rgba(0, 0, 0, 0.7)'
+                });
+                axios.get('/start').then(res => {
+                    if (res && res.status == '200') {
+                        this.updateInfo = '启动成功!';
+                        this.exeList();
+                    } else {
+                        this.updateInfo = '启动失败';
+                    }
+                    loading.close();
+                });
+            },
+            restartExe: function() {
+                const loading = this.$loading({
+                  lock: true,
+                  text: 'Loading',
+                  spinner: 'el-icon-loading',
+                  background: 'rgba(0, 0, 0, 0.7)'
+                });
+                axios.get('/restart').then(res => {
+                    if (res && res.status == '200') {
+                        this.updateInfo = '重启成功!';
+                        this.exeList();
+                    } else {
+                        this.updateInfo = '重启失败';
+                    }
+                    loading.close();
+                });
+            },
+            deleteExe: function() {
+                const loading = this.$loading({
+                  lock: true,
+                  text: 'Loading',
+                  spinner: 'el-icon-loading',
+                  background: 'rgba(0, 0, 0, 0.7)'
+                });
+                axios.get('/delete').then(res => {
+                    if (res && res.status == '200') {
+                        this.updateInfo = '删除成功!';
+                        this.exeList();
+                    } else {
+                        this.updateInfo = '删除失败';
+                    }
+                    loading.close();
+                });
+            }
+        },
+        created() {
+            this.exeList();
+        }
+    });
+    </script>
+</body>
+
+</html>
