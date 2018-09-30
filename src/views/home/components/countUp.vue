@@ -6,8 +6,6 @@
 </template>
 
 <script>
-import CountUp from 'countup';
-
 function transformValue (val) {
     let endVal = 0;
     let unit = '';
@@ -87,12 +85,6 @@ export default {
                 let endVal = res.val;
                 this.unit = res.unit;
                 let demo = {};
-                // 业务需求保留整数，取消掉countup方法，后期可查看源码做优化
-                // this.demo = demo = new CountUp(this.idName, this.startVal, endVal, this.decimals, this.duration, this.options);
-                // console.log(demo, '111');
-                // if (!demo.error) {
-                //     demo.start();
-                // }
             }, this.delay);
         });
     },

@@ -8,7 +8,7 @@
 </style>
 <template>
     <ButtonGroup>
-        <Button v-for="(item, index) in changeTitles" :class="{btnActive: index == currentBtn}" @click="tab(index)">{{item}}</Button>
+        <Button v-for="(item, index) in changeTitles" :class="{btnActive: index == currentBtn}" @click="tab(index)"   :key="index">{{item}}</Button>
     </ButtonGroup>
 </template>
 

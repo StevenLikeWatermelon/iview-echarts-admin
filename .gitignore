@@ -8,3 +8,4 @@ npm-debug.log
 src/config/env.js
 /src/config/config.js
 node_modules
+dist

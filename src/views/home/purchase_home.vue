@@ -47,7 +47,7 @@
                         <Col span="24">
                             <Input v-model="serchParams.order_no"  icon="search" placeholder="请输入任务单据编号,按enter搜索" @on-enter="getTaskList()" style="float:right;width:300px;"></Input>
                             <ButtonGroup style="float:right;margin-right:20px;">
-                                <Button v-for="(val, key) in statusList" @click="changeParams(key)" :class="{active: key == currentKey}">{{val}}</Button>
+                                <Button v-for="(val, key) in statusList" @click="changeParams(key)" :class="{active: key == currentKey}" :key="key">{{val}}</Button>
                             </ButtonGroup>
                             <div class="clear"></div>
                         </Col>
@@ -81,9 +81,9 @@
             <Row>
                 <col span="24">
                     <Steps :current="currentFlow">
-                        <Step v-for="item in workFlowArr" :title="item.action" ></Step>
+                        <Step v-for="(item, key) in workFlowArr" :title="item.action"  :key="key"></Step>
                     </Steps>
-                    <div v-for="item in workFlowArr" :style="{width: workFlowWidth + '%'}" class="purchase-flow-div">
+                    <div v-for="(item, key) in workFlowArr" :style="{width: workFlowWidth + '%'}" class="purchase-flow-div"  :key="key">
                         <p>{{ item.user_name }}</p>
                         <p>{{ item.time }}</p>
                         <p>{{ item.note }}</p>            
