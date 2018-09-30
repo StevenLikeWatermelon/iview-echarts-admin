@@ -1,0 +1,36 @@
+{
+    "status": 1,
+    "data":
+    {
+        "total_htje": "207.24",
+        "total_num": 2,
+        "brands": [
+        {
+            "cpppbh": "CPPP00005",
+            "cpppmc": "施耐德",
+            "seriallist": ["Local XB2 Ø22金属按钮", "PD-MCCB-CVS系列塑壳断路器"]
+        }],
+        "list": [
+        {
+            "cpxhbh": "CPXH00161308",
+            "cpdhh": "ZB2BZ101C",
+            "cpppbh": "CPPP00005",
+            "cpppmc": "施耐德",
+            "cpxl": "Local XB2 Ø22金属按钮",
+            "cpxh": "ZB2BZ101C",
+            "htsl": "1",
+            "htje": "8.5800"
+        },
+        {
+            "cpxhbh": "CPXH00051412",
+            "cpdhh": "LV432593",
+            "cpppbh": "CPPP00005",
+            "cpppmc": "施耐德",
+            "cpxl": "PD-MCCB-CVS系列塑壳断路器",
+            "cpxh": "NSX-长端子罩盖 45 MM (1 片) 3P",
+            "htsl": "2",
+            "htje": "198.6600"
+        }]
+    },
+    "message": "获取成功！"
+}

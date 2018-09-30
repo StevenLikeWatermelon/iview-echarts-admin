@@ -1,0 +1,273 @@
+{
+    "status": 1,
+    "data":
+    {
+        "total_num": 44,
+        "list": [
+        {
+            "czyg_ygbh": "SW00123",
+            "czyg": "客服潘玲莉",
+            "czygbm_bmbh": "27",
+            "czygbm": "客服一组"
+        },
+        {
+            "czyg_ygbh": "YD00001",
+            "czyg": "李小龙",
+            "czygbm_bmbh": "3",
+            "czygbm": "总经办"
+        },
+        {
+            "czyg_ygbh": "YD00003",
+            "czyg": "郑旭强",
+            "czygbm_bmbh": "3",
+            "czygbm": "总经办"
+        },
+        {
+            "czyg_ygbh": "YD00004",
+            "czyg": "周乾",
+            "czygbm_bmbh": "3",
+            "czygbm": "总经办"
+        },
+        {
+            "czyg_ygbh": "YD00011",
+            "czyg": "魏兵",
+            "czygbm_bmbh": "3",
+            "czygbm": "总经办"
+        },
+        {
+            "czyg_ygbh": "YD00020",
+            "czyg": "吕金龙",
+            "czygbm_bmbh": "26",
+            "czygbm": "客服部"
+        },
+        {
+            "czyg_ygbh": "YD00022",
+            "czyg": "吴益清",
+            "czygbm_bmbh": "28",
+            "czygbm": "客服二组"
+        },
+        {
+            "czyg_ygbh": "YD00027",
+            "czyg": "潘红宇",
+            "czygbm_bmbh": "24",
+            "czygbm": "大客户"
+        },
+        {
+            "czyg_ygbh": "YD00043",
+            "czyg": "王铭",
+            "czygbm_bmbh": "27",
+            "czygbm": "客服一组"
+        },
+        {
+            "czyg_ygbh": "YD00045",
+            "czyg": "马国强",
+            "czygbm_bmbh": "3",
+            "czygbm": "总经办"
+        },
+        {
+            "czyg_ygbh": "YD00059",
+            "czyg": "夷亚娟",
+            "czygbm_bmbh": "28",
+            "czygbm": "客服二组"
+        },
+        {
+            "czyg_ygbh": "YD00060",
+            "czyg": "鲁梦园",
+            "czygbm_bmbh": "28",
+            "czygbm": "客服二组"
+        },
+        {
+            "czyg_ygbh": "YD00066",
+            "czyg": "翟玮",
+            "czygbm_bmbh": "28",
+            "czygbm": "客服二组"
+        },
+        {
+            "czyg_ygbh": "YD00070",
+            "czyg": "查胤",
+            "czygbm_bmbh": "48",
+            "czygbm": "客服三组"
+        },
+        {
+            "czyg_ygbh": "YD00080",
+            "czyg": "张兴",
+            "czygbm_bmbh": "25",
+            "czygbm": "开发部"
+        },
+        {
+            "czyg_ygbh": "YD00091",
+            "czyg": "周丽",
+            "czygbm_bmbh": "45",
+            "czygbm": "大客户组"
+        },
+        {
+            "czyg_ygbh": "YD00092",
+            "czyg": "陈洋",
+            "czygbm_bmbh": "48",
+            "czygbm": "客服三组"
+        },
+        {
+            "czyg_ygbh": "YD00102",
+            "czyg": "林荣",
+            "czygbm_bmbh": "45",
+            "czygbm": "大客户组"
+        },
+        {
+            "czyg_ygbh": "YD00106",
+            "czyg": "李宇寒",
+            "czygbm_bmbh": "45",
+            "czygbm": "大客户组"
+        },
+        {
+            "czyg_ygbh": "YD00123",
+            "czyg": "潘玲莉",
+            "czygbm_bmbh": "3",
+            "czygbm": "总经办"
+        },
+        {
+            "czyg_ygbh": "YD00160",
+            "czyg": "韩博文",
+            "czygbm_bmbh": "4",
+            "czygbm": "销售部"
+        },
+        {
+            "czyg_ygbh": "YD00161",
+            "czyg": "姚二雄",
+            "czygbm_bmbh": "48",
+            "czygbm": "客服三组"
+        },
+        {
+            "czyg_ygbh": "YD00166",
+            "czyg": "吴沛良",
+            "czygbm_bmbh": "49",
+            "czygbm": "客服四组"
+        },
+        {
+            "czyg_ygbh": "YD00173",
+            "czyg": "姜新辉",
+            "czygbm_bmbh": "30",
+            "czygbm": "运营部"
+        },
+        {
+            "czyg_ygbh": "YD00176",
+            "czyg": "张赛",
+            "czygbm_bmbh": "27",
+            "czygbm": "客服一组"
+        },
+        {
+            "czyg_ygbh": "YD00177",
+            "czyg": "王实",
+            "czygbm_bmbh": "50",
+            "czygbm": "客服五组"
+        },
+        {
+            "czyg_ygbh": "YD00178",
+            "czyg": "贺雅楠",
+            "czygbm_bmbh": "49",
+            "czygbm": "客服四组"
+        },
+        {
+            "czyg_ygbh": "YD00182",
+            "czyg": "王震",
+            "czygbm_bmbh": "49",
+            "czygbm": "客服四组"
+        },
+        {
+            "czyg_ygbh": "YD00186",
+            "czyg": "孙安静",
+            "czygbm_bmbh": "45",
+            "czygbm": "大客户组"
+        },
+        {
+            "czyg_ygbh": "YD00190",
+            "czyg": "茅慧贤",
+            "czygbm_bmbh": "28",
+            "czygbm": "客服二组"
+        },
+        {
+            "czyg_ygbh": "YD00193",
+            "czyg": "向茂斌",
+            "czygbm_bmbh": "49",
+            "czygbm": "客服四组"
+        },
+        {
+            "czyg_ygbh": "YD00194",
+            "czyg": "许文娟",
+            "czygbm_bmbh": "28",
+            "czygbm": "客服二组"
+        },
+        {
+            "czyg_ygbh": "YD00198",
+            "czyg": "宋荣妹",
+            "czygbm_bmbh": "49",
+            "czygbm": "客服四组"
+        },
+        {
+            "czyg_ygbh": "YD00200",
+            "czyg": "闫刘明",
+            "czygbm_bmbh": "48",
+            "czygbm": "客服三组"
+        },
+        {
+            "czyg_ygbh": "YD00204",
+            "czyg": "纪辉林",
+            "czygbm_bmbh": "50",
+            "czygbm": "客服五组"
+        },
+        {
+            "czyg_ygbh": "YD00205",
+            "czyg": "张莲莲",
+            "czygbm_bmbh": "50",
+            "czygbm": "客服五组"
+        },
+        {
+            "czyg_ygbh": "YD00206",
+            "czyg": "唐丹",
+            "czygbm_bmbh": "28",
+            "czygbm": "客服二组"
+        },
+        {
+            "czyg_ygbh": "YD00213",
+            "czyg": "汤娟花",
+            "czygbm_bmbh": "27",
+            "czygbm": "客服一组"
+        },
+        {
+            "czyg_ygbh": "YD00216",
+            "czyg": "钱怡玟",
+            "czygbm_bmbh": "48",
+            "czygbm": "客服三组"
+        },
+        {
+            "czyg_ygbh": "YD00232",
+            "czyg": "汤秀娟",
+            "czygbm_bmbh": "50",
+            "czygbm": "客服五组"
+        },
+        {
+            "czyg_ygbh": "YD00234",
+            "czyg": "殷彤",
+            "czygbm_bmbh": "27",
+            "czygbm": "客服一组"
+        },
+        {
+            "czyg_ygbh": "YD00235",
+            "czyg": "王丛丛",
+            "czygbm_bmbh": "49",
+            "czygbm": "客服四组"
+        },
+        {
+            "czyg_ygbh": "YD00241",
+            "czyg": "刘东彪",
+            "czygbm_bmbh": "50",
+            "czygbm": "客服五组"
+        },
+        {
+            "czyg_ygbh": "YD00244",
+            "czyg": "张梦媚",
+            "czygbm_bmbh": "45",
+            "czygbm": "大客户组"
+        }]
+    },
+    "message": "获取成功！"
+}

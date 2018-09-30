@@ -1,0 +1,1397 @@
+{
+    "status": 1,
+    "data": [
+    {
+        "id": "1",
+        "cpppbh": "CPPP00001",
+        "cpppmc": "欧姆龙",
+        "cpppywmc": "Omron"
+    },
+    {
+        "id": "2",
+        "cpppbh": "CPPP00002",
+        "cpppmc": "欣大",
+        "cpppywmc": "Clion"
+    },
+    {
+        "id": "3",
+        "cpppbh": "CPPP00003",
+        "cpppmc": "和泉",
+        "cpppywmc": "IDEC"
+    },
+    {
+        "id": "4",
+        "cpppbh": "CPPP00004",
+        "cpppmc": "魏德米勒",
+        "cpppywmc": "Weidmüller"
+    },
+    {
+        "id": "5",
+        "cpppbh": "CPPP00005",
+        "cpppmc": "施耐德",
+        "cpppywmc": "Schneider"
+    },
+    {
+        "id": "6",
+        "cpppbh": "CPPP00006",
+        "cpppmc": "ABB",
+        "cpppywmc": "ABB"
+    },
+    {
+        "id": "7",
+        "cpppbh": "CPPP00007",
+        "cpppmc": "明达",
+        "cpppywmc": "Mind"
+    },
+    {
+        "id": "8",
+        "cpppbh": "CPPP00008",
+        "cpppmc": "宏发",
+        "cpppywmc": "Hong Fa"
+    },
+    {
+        "id": "9",
+        "cpppbh": "CPPP00009",
+        "cpppmc": "松川",
+        "cpppywmc": "Song Chuan"
+    },
+    {
+        "id": "10",
+        "cpppbh": "CPPP00010",
+        "cpppmc": "泰科",
+        "cpppywmc": "Tyco(TE)"
+    },
+    {
+        "id": "11",
+        "cpppbh": "CPPP00011",
+        "cpppmc": "菲尼克斯",
+        "cpppywmc": "Phoenix"
+    },
+    {
+        "id": "12",
+        "cpppbh": "CPPP00012",
+        "cpppmc": "宜科",
+        "cpppywmc": "Elco"
+    },
+    {
+        "id": "13",
+        "cpppbh": "CPPP00013",
+        "cpppmc": "亚洲龙",
+        "cpppywmc": "Asiaon"
+    },
+    {
+        "id": "14",
+        "cpppbh": "CPPP00014",
+        "cpppmc": "西门子",
+        "cpppywmc": "Siemens"
+    },
+    {
+        "id": "15",
+        "cpppbh": "CPPP00015",
+        "cpppmc": "正泰",
+        "cpppywmc": "Chint"
+    },
+    {
+        "id": "16",
+        "cpppbh": "CPPP00016",
+        "cpppmc": "德力西",
+        "cpppywmc": "Delixi"
+    },
+    {
+        "id": "17",
+        "cpppbh": "CPPP00017",
+        "cpppmc": "松下",
+        "cpppywmc": "Panasonic"
+    },
+    {
+        "id": "18",
+        "cpppbh": "CPPP00018",
+        "cpppmc": "霍尼韦尔",
+        "cpppywmc": "Honeywell"
+    },
+    {
+        "id": "20",
+        "cpppbh": "CPPP00020",
+        "cpppmc": "上海二工",
+        "cpppywmc": "APT"
+    },
+    {
+        "id": "21",
+        "cpppbh": "CPPP00021",
+        "cpppmc": "申乐",
+        "cpppywmc": "Shenler"
+    },
+    {
+        "id": "22",
+        "cpppbh": "CPPP00022",
+        "cpppmc": "三菱",
+        "cpppywmc": "Mitsubishi"
+    },
+    {
+        "id": "23",
+        "cpppbh": "CPPP00023",
+        "cpppmc": "日成",
+        "cpppywmc": "RCCN"
+    },
+    {
+        "id": "24",
+        "cpppbh": "CPPP00024",
+        "cpppmc": "凯帆",
+        "cpppywmc": "kfine"
+    },
+    {
+        "id": "25",
+        "cpppbh": "CPPP00025",
+        "cpppmc": "伊顿",
+        "cpppywmc": "EATON"
+    },
+    {
+        "id": "26",
+        "cpppbh": "CPPP00026",
+        "cpppmc": "明纬",
+        "cpppywmc": "MEAN WELL"
+    },
+    {
+        "id": "27",
+        "cpppbh": "CPPP00027",
+        "cpppmc": "SMC",
+        "cpppywmc": "SMC"
+    },
+    {
+        "id": "28",
+        "cpppbh": "CPPP00028",
+        "cpppmc": "博世力士乐",
+        "cpppywmc": "BoschRexroth"
+    },
+    {
+        "id": "29",
+        "cpppbh": "CPPP00029",
+        "cpppmc": "威纶通",
+        "cpppywmc": "WEINVIEW"
+    },
+    {
+        "id": "30",
+        "cpppbh": "CPPP00030",
+        "cpppmc": "亚德客",
+        "cpppywmc": "airtac"
+    },
+    {
+        "id": "31",
+        "cpppbh": "CPPP00031",
+        "cpppmc": "费斯托",
+        "cpppywmc": "FESTO"
+    },
+    {
+        "id": "32",
+        "cpppbh": "CPPP00032",
+        "cpppmc": "台达",
+        "cpppywmc": "delta"
+    },
+    {
+        "id": "33",
+        "cpppbh": "CPPP00033",
+        "cpppmc": "齐心",
+        "cpppywmc": "COMIX"
+    },
+    {
+        "id": "34",
+        "cpppbh": "CPPP00034",
+        "cpppmc": "世达",
+        "cpppywmc": "SATA"
+    },
+    {
+        "id": "131",
+        "cpppbh": "CPPP00131",
+        "cpppmc": "PIZZATO",
+        "cpppywmc": "PIZZATO"
+    },
+    {
+        "id": "133",
+        "cpppbh": "CPPP00133",
+        "cpppmc": "三星",
+        "cpppywmc": "SAMSUNG"
+    },
+    {
+        "id": "135",
+        "cpppbh": "CPPP00135",
+        "cpppmc": "乐视",
+        "cpppywmc": "Le"
+    },
+    {
+        "id": "136",
+        "cpppbh": "CPPP00136",
+        "cpppmc": "优利德",
+        "cpppywmc": "UNI-T"
+    },
+    {
+        "id": "138",
+        "cpppbh": "CPPP00138",
+        "cpppmc": "兄弟",
+        "cpppywmc": "Brother"
+    },
+    {
+        "id": "139",
+        "cpppbh": "CPPP00139",
+        "cpppmc": "凯士士",
+        "cpppywmc": "KSS"
+    },
+    {
+        "id": "140",
+        "cpppbh": "CPPP00140",
+        "cpppmc": "博世",
+        "cpppywmc": "BOSCH"
+    },
+    {
+        "id": "143",
+        "cpppbh": "CPPP00143",
+        "cpppmc": "发那科",
+        "cpppywmc": "Fanuc"
+    },
+    {
+        "id": "144",
+        "cpppbh": "CPPP00144",
+        "cpppmc": "基恩士",
+        "cpppywmc": "KEYENCE"
+    },
+    {
+        "id": "145",
+        "cpppbh": "CPPP00145",
+        "cpppmc": "天正",
+        "cpppywmc": "Tengen"
+    },
+    {
+        "id": "146",
+        "cpppbh": "CPPP00146",
+        "cpppmc": "威卡",
+        "cpppywmc": "WIKA"
+    },
+    {
+        "id": "147",
+        "cpppbh": "CPPP00147",
+        "cpppmc": "威图",
+        "cpppywmc": "RITTAL"
+    },
+    {
+        "id": "148",
+        "cpppbh": "CPPP00148",
+        "cpppmc": "安川",
+        "cpppywmc": "YASKAWA"
+    },
+    {
+        "id": "149",
+        "cpppbh": "CPPP00149",
+        "cpppmc": "安科瑞",
+        "cpppywmc": "Acrel"
+    },
+    {
+        "id": "150",
+        "cpppbh": "CPPP00150",
+        "cpppmc": "宜电",
+        "cpppywmc": "YD"
+    },
+    {
+        "id": "151",
+        "cpppbh": "CPPP00151",
+        "cpppmc": "富士施乐",
+        "cpppywmc": "FUJI XEROX"
+    },
+    {
+        "id": "152",
+        "cpppbh": "CPPP00152",
+        "cpppmc": "惠普",
+        "cpppywmc": "HP"
+    },
+    {
+        "id": "153",
+        "cpppbh": "CPPP00153",
+        "cpppmc": "戴尔",
+        "cpppywmc": "DELL"
+    },
+    {
+        "id": "154",
+        "cpppbh": "CPPP00154",
+        "cpppmc": "摩托罗拉",
+        "cpppywmc": "Motorola"
+    },
+    {
+        "id": "155",
+        "cpppbh": "CPPP00155",
+        "cpppmc": "斯菲尔",
+        "cpppywmc": "Sfere"
+    },
+    {
+        "id": "157",
+        "cpppbh": "CPPP00157",
+        "cpppmc": "日立",
+        "cpppywmc": "HITACHI"
+    },
+    {
+        "id": "158",
+        "cpppbh": "CPPP00158",
+        "cpppmc": "旺荣",
+        "cpppywmc": "WRG"
+    },
+    {
+        "id": "159",
+        "cpppbh": "CPPP00159",
+        "cpppmc": "普联",
+        "cpppywmc": "TP-LINK"
+    },
+    {
+        "id": "160",
+        "cpppbh": "CPPP00160",
+        "cpppmc": "格力",
+        "cpppywmc": "GREE"
+    },
+    {
+        "id": "162",
+        "cpppbh": "CPPP00162",
+        "cpppmc": "永大",
+        "cpppywmc": "YongDa"
+    },
+    {
+        "id": "164",
+        "cpppbh": "CPPP00164",
+        "cpppmc": "派诺",
+        "cpppywmc": "Pilot"
+    },
+    {
+        "id": "165",
+        "cpppbh": "CPPP00165",
+        "cpppmc": "爱松特",
+        "cpppywmc": "ISOTECH"
+    },
+    {
+        "id": "166",
+        "cpppbh": "CPPP00166",
+        "cpppmc": "福禄克",
+        "cpppywmc": "FLUKE"
+    },
+    {
+        "id": "167",
+        "cpppbh": "CPPP00167",
+        "cpppmc": "穆勒",
+        "cpppywmc": "MOELLER"
+    },
+    {
+        "id": "168",
+        "cpppbh": "CPPP00168",
+        "cpppmc": "紫羲",
+        "cpppywmc": "ZiXi"
+    },
+    {
+        "id": "169",
+        "cpppbh": "CPPP00169",
+        "cpppmc": "罗技",
+        "cpppywmc": "logitech"
+    },
+    {
+        "id": "170",
+        "cpppbh": "CPPP00170",
+        "cpppmc": "联想",
+        "cpppywmc": "lenovo"
+    },
+    {
+        "id": "171",
+        "cpppbh": "CPPP00171",
+        "cpppmc": "西克",
+        "cpppywmc": "SICK"
+    },
+    {
+        "id": "172",
+        "cpppbh": "CPPP00172",
+        "cpppmc": "起帆",
+        "cpppywmc": "Qifan"
+    },
+    {
+        "id": "173",
+        "cpppbh": "CPPP00173",
+        "cpppmc": "道顿",
+        "cpppywmc": "DOCON"
+    },
+    {
+        "id": "174",
+        "cpppbh": "CPPP00174",
+        "cpppmc": "阿特拉斯·科普柯",
+        "cpppywmc": "AtlasCopco"
+    },
+    {
+        "id": "175",
+        "cpppbh": "CPPP00175",
+        "cpppmc": "雷诺尔",
+        "cpppywmc": "RENLE"
+    },
+    {
+        "id": "176",
+        "cpppbh": "CPPP00176",
+        "cpppmc": "鹰峰",
+        "cpppywmc": "EAGTOP"
+    },
+    {
+        "id": "192",
+        "cpppbh": "CPPP00178",
+        "cpppmc": "友讯",
+        "cpppywmc": "D-Link"
+    },
+    {
+        "id": "193",
+        "cpppbh": "CPPP00179",
+        "cpppmc": "E元素",
+        "cpppywmc": "Eyuansu"
+    },
+    {
+        "id": "196",
+        "cpppbh": "CPPP00182",
+        "cpppmc": "漫步者",
+        "cpppywmc": "edifier"
+    },
+    {
+        "id": "198",
+        "cpppbh": "CPPP00184",
+        "cpppmc": "映美",
+        "cpppywmc": "Jolimark"
+    },
+    {
+        "id": "202",
+        "cpppbh": "CPPP00188",
+        "cpppmc": "汇东",
+        "cpppywmc": "huidong"
+    },
+    {
+        "id": "203",
+        "cpppbh": "CPPP00189",
+        "cpppmc": "普天",
+        "cpppywmc": "Potevio"
+    },
+    {
+        "id": "204",
+        "cpppbh": "CPPP00190",
+        "cpppmc": "安普",
+        "cpppywmc": "AMP"
+    },
+    {
+        "id": "205",
+        "cpppbh": "CPPP00191",
+        "cpppmc": "公牛",
+        "cpppywmc": "BULL"
+    },
+    {
+        "id": "206",
+        "cpppbh": "CPPP00192",
+        "cpppmc": "国优",
+        "cpppywmc": "GUOYOU"
+    },
+    {
+        "id": "207",
+        "cpppbh": "CPPP00193",
+        "cpppmc": "航世",
+        "cpppywmc": "B.O.W"
+    },
+    {
+        "id": "210",
+        "cpppbh": "CPPP00196",
+        "cpppmc": "上海飞策",
+        "cpppywmc": "FEICE"
+    },
+    {
+        "id": "211",
+        "cpppbh": "CPPP00197",
+        "cpppmc": "昆仑通泰",
+        "cpppywmc": "KUNLUNTONG"
+    },
+    {
+        "id": "212",
+        "cpppbh": "CPPP00198",
+        "cpppmc": "宇峰",
+        "cpppywmc": "YUFENG"
+    },
+    {
+        "id": "213",
+        "cpppbh": "CPPP00199",
+        "cpppmc": "索尼",
+        "cpppywmc": "SONY"
+    },
+    {
+        "id": "214",
+        "cpppbh": "CPPP00200",
+        "cpppmc": "溯高美",
+        "cpppywmc": "SOCOMEC"
+    },
+    {
+        "id": "215",
+        "cpppbh": "CPPP00201",
+        "cpppmc": "陕西华星",
+        "cpppywmc": "HUAXING"
+    },
+    {
+        "id": "216",
+        "cpppbh": "CPPP00202",
+        "cpppmc": "镭彩",
+        "cpppywmc": "LEICAI"
+    },
+    {
+        "id": "217",
+        "cpppbh": "CPPP00203",
+        "cpppmc": "美的",
+        "cpppywmc": "Midea"
+    },
+    {
+        "id": "218",
+        "cpppbh": "CPPP00204",
+        "cpppmc": "KOB",
+        "cpppywmc": "KOB"
+    },
+    {
+        "id": "219",
+        "cpppbh": "CPPP00205",
+        "cpppmc": "英特尔",
+        "cpppywmc": "Intel"
+    },
+    {
+        "id": "220",
+        "cpppbh": "CPPP00206",
+        "cpppmc": "西部数据",
+        "cpppywmc": "WD"
+    },
+    {
+        "id": "221",
+        "cpppbh": "CPPP00207",
+        "cpppmc": "科佳",
+        "cpppywmc": "KDY"
+    },
+    {
+        "id": "222",
+        "cpppbh": "CPPP00208",
+        "cpppmc": "友声",
+        "cpppywmc": "YOUSHENG"
+    },
+    {
+        "id": "223",
+        "cpppbh": "CPPP00209",
+        "cpppmc": "鼎诺",
+        "cpppywmc": "DINGNUO"
+    },
+    {
+        "id": "224",
+        "cpppbh": "CPPP00210",
+        "cpppmc": "顺通",
+        "cpppywmc": "SHUNTONG"
+    },
+    {
+        "id": "225",
+        "cpppbh": "CPPP00211",
+        "cpppmc": "上海新驰",
+        "cpppywmc": "XINCHI"
+    },
+    {
+        "id": "227",
+        "cpppbh": "CPPP00213",
+        "cpppmc": "拓研",
+        "cpppywmc": "TUOYAN"
+    },
+    {
+        "id": "228",
+        "cpppbh": "CPPP00214",
+        "cpppmc": "TOOZO",
+        "cpppywmc": "TOOZO"
+    },
+    {
+        "id": "229",
+        "cpppbh": "CPPP00215",
+        "cpppmc": "常熟开关",
+        "cpppywmc": "CHANGSHUKAIGUAN"
+    },
+    {
+        "id": "230",
+        "cpppbh": "CPPP00216",
+        "cpppmc": "常州强宝",
+        "cpppywmc": "CHANGZHOUQIANGBAO"
+    },
+    {
+        "id": "231",
+        "cpppbh": "CPPP00217",
+        "cpppmc": "科勒",
+        "cpppywmc": "Kohler"
+    },
+    {
+        "id": "242",
+        "cpppbh": "CPPP00228",
+        "cpppmc": "众达",
+        "cpppywmc": "ZHONGDA"
+    },
+    {
+        "id": "243",
+        "cpppbh": "CPPP00229",
+        "cpppmc": "杜邦",
+        "cpppywmc": "DuPont"
+    },
+    {
+        "id": "244",
+        "cpppbh": "CPPP00230",
+        "cpppmc": "绩泰",
+        "cpppywmc": "JITAI"
+    },
+    {
+        "id": "245",
+        "cpppbh": "CPPP00231",
+        "cpppmc": "上泰",
+        "cpppywmc": "SUNTEX"
+    },
+    {
+        "id": "246",
+        "cpppbh": "CPPP00232",
+        "cpppmc": "东成",
+        "cpppywmc": "DONGCHENG"
+    },
+    {
+        "id": "247",
+        "cpppbh": "CPPP00233",
+        "cpppmc": "上能",
+        "cpppywmc": "SINENG"
+    },
+    {
+        "id": "248",
+        "cpppbh": "CPPP00234",
+        "cpppmc": "上海巨格",
+        "cpppywmc": "shanghaijuge"
+    },
+    {
+        "id": "249",
+        "cpppbh": "CPPP00235",
+        "cpppmc": "华为",
+        "cpppywmc": "HUAWEI"
+    },
+    {
+        "id": "250",
+        "cpppbh": "CPPP00236",
+        "cpppmc": "索正",
+        "cpppywmc": "Suozheng"
+    },
+    {
+        "id": "251",
+        "cpppbh": "CPPP00237",
+        "cpppmc": "TCL罗格朗",
+        "cpppywmc": "TCL-legrand"
+    },
+    {
+        "id": "252",
+        "cpppbh": "CPPP00238",
+        "cpppmc": "史丹利",
+        "cpppywmc": "STANLEY"
+    },
+    {
+        "id": "253",
+        "cpppbh": "CPPP00239",
+        "cpppmc": "SEGGER",
+        "cpppywmc": "SEGGER"
+    },
+    {
+        "id": "254",
+        "cpppbh": "CPPP00240",
+        "cpppmc": "宝工",
+        "cpppywmc": "Pro'skit"
+    },
+    {
+        "id": "255",
+        "cpppbh": "CPPP00241",
+        "cpppmc": "捷科",
+        "cpppywmc": "JETECH"
+    },
+    {
+        "id": "256",
+        "cpppbh": "CPPP00242",
+        "cpppmc": "全友",
+        "cpppywmc": "QUANYOU"
+    },
+    {
+        "id": "258",
+        "cpppbh": "CPPP00244",
+        "cpppmc": "卡顿",
+        "cpppywmc": "CARTON"
+    },
+    {
+        "id": "259",
+        "cpppbh": "CPPP00245",
+        "cpppmc": "苹果",
+        "cpppywmc": "Apple"
+    },
+    {
+        "id": "260",
+        "cpppbh": "CPPP00246",
+        "cpppmc": "亚马逊",
+        "cpppywmc": "Amazon"
+    },
+    {
+        "id": "261",
+        "cpppbh": "CPPP00247",
+        "cpppmc": "科沃斯",
+        "cpppywmc": "Ecovacs"
+    },
+    {
+        "id": "262",
+        "cpppbh": "CPPP00248",
+        "cpppmc": "日呈",
+        "cpppywmc": "RICHENG"
+    },
+    {
+        "id": "264",
+        "cpppbh": "CPPP00250",
+        "cpppmc": "建兴",
+        "cpppywmc": "LITEON"
+    },
+    {
+        "id": "265",
+        "cpppbh": "CPPP00251",
+        "cpppmc": "硕方",
+        "cpppywmc": "SUPVAN"
+    },
+    {
+        "id": "266",
+        "cpppbh": "CPPP00252",
+        "cpppmc": "丽标",
+        "cpppywmc": "capelabel"
+    },
+    {
+        "id": "267",
+        "cpppbh": "CPPP00253",
+        "cpppmc": "库柏",
+        "cpppywmc": "Cooper"
+    },
+    {
+        "id": "268",
+        "cpppbh": "CPPP00254",
+        "cpppmc": "斑马",
+        "cpppywmc": "ZEBRA"
+    },
+    {
+        "id": "269",
+        "cpppbh": "CPPP00255",
+        "cpppmc": "云南白药",
+        "cpppywmc": "YUNNANBAIYAO"
+    },
+    {
+        "id": "270",
+        "cpppbh": "CPPP00256",
+        "cpppmc": "苏诺",
+        "cpppywmc": "SUNUO"
+    },
+    {
+        "id": "271",
+        "cpppbh": "CPPP00257",
+        "cpppmc": "佳捷",
+        "cpppywmc": "JAJER"
+    },
+    {
+        "id": "273",
+        "cpppbh": "CPPP00259",
+        "cpppmc": "南孚",
+        "cpppywmc": "NANFU"
+    },
+    {
+        "id": "274",
+        "cpppbh": "CPPP00260",
+        "cpppmc": "小米",
+        "cpppywmc": "MIUI"
+    },
+    {
+        "id": "276",
+        "cpppbh": "CPPP00262",
+        "cpppmc": "绿联",
+        "cpppywmc": "LVLIAN"
+    },
+    {
+        "id": "277",
+        "cpppbh": "CPPP00263",
+        "cpppmc": "佳能",
+        "cpppywmc": "Canon"
+    },
+    {
+        "id": "280",
+        "cpppbh": "CPPP00266",
+        "cpppmc": "中华",
+        "cpppywmc": "ZHONGHUA"
+    },
+    {
+        "id": "284",
+        "cpppbh": "CPPP00270",
+        "cpppmc": "得力",
+        "cpppywmc": "Deli"
+    },
+    {
+        "id": "286",
+        "cpppbh": "CPPP00272",
+        "cpppmc": "伍尔特",
+        "cpppywmc": "Wurth"
+    },
+    {
+        "id": "287",
+        "cpppbh": "CPPP00273",
+        "cpppmc": "3M",
+        "cpppywmc": "3M"
+    },
+    {
+        "id": "290",
+        "cpppbh": "CPPP00276",
+        "cpppmc": "易达",
+        "cpppywmc": "Esselte"
+    },
+    {
+        "id": "291",
+        "cpppbh": "CPPP00277",
+        "cpppmc": "鑫峰",
+        "cpppywmc": "XINFENG"
+    },
+    {
+        "id": "292",
+        "cpppbh": "CPPP00278",
+        "cpppmc": "雄族",
+        "cpppywmc": "xiongzu"
+    },
+    {
+        "id": "297",
+        "cpppbh": "CPPP00283",
+        "cpppmc": "飞利浦",
+        "cpppywmc": "PHILIPS"
+    },
+    {
+        "id": "298",
+        "cpppbh": "CPPP00284",
+        "cpppmc": "奇籁",
+        "cpppywmc": "QILAI"
+    },
+    {
+        "id": "299",
+        "cpppbh": "CPPP00285",
+        "cpppmc": "绿巨能",
+        "cpppywmc": "llano"
+    },
+    {
+        "id": "300",
+        "cpppbh": "CPPP00286",
+        "cpppmc": "乐标",
+        "cpppywmc": "LOPAL"
+    },
+    {
+        "id": "301",
+        "cpppbh": "CPPP00287",
+        "cpppmc": "华硕",
+        "cpppywmc": "ASUS"
+    },
+    {
+        "id": "302",
+        "cpppbh": "CPPP00288",
+        "cpppmc": "思科",
+        "cpppywmc": "CISCO"
+    },
+    {
+        "id": "303",
+        "cpppbh": "CPPP00289",
+        "cpppmc": "玥卓",
+        "cpppywmc": "Uni-Silent"
+    },
+    {
+        "id": "304",
+        "cpppbh": "CPPP00290",
+        "cpppmc": "雷士照明",
+        "cpppywmc": "nVc"
+    },
+    {
+        "id": "305",
+        "cpppbh": "CPPP00291",
+        "cpppmc": "光亮",
+        "cpppywmc": "CNGLDQ"
+    },
+    {
+        "id": "306",
+        "cpppbh": "CPPP00292",
+        "cpppmc": "维拉",
+        "cpppywmc": "WERA"
+    },
+    {
+        "id": "307",
+        "cpppbh": "CPPP00293",
+        "cpppmc": "中德",
+        "cpppywmc": "ZHONGDE"
+    },
+    {
+        "id": "308",
+        "cpppbh": "CPPP00294",
+        "cpppmc": "优必胜",
+        "cpppywmc": "UBWin"
+    },
+    {
+        "id": "309",
+        "cpppbh": "CPPP00295",
+        "cpppmc": "苏测",
+        "cpppywmc": "Nscing"
+    },
+    {
+        "id": "310",
+        "cpppbh": "CPPP00296",
+        "cpppmc": "OUPLI",
+        "cpppywmc": "OUPLI"
+    },
+    {
+        "id": "311",
+        "cpppbh": "CPPP00297",
+        "cpppmc": "欧博成",
+        "cpppywmc": "OBC"
+    },
+    {
+        "id": "312",
+        "cpppbh": "CPPP00298",
+        "cpppmc": "雷景电气",
+        "cpppywmc": "REALG"
+    },
+    {
+        "id": "313",
+        "cpppbh": "CPPP00299",
+        "cpppmc": "西湖台钻",
+        "cpppywmc": "WESTLAKE"
+    },
+    {
+        "id": "314",
+        "cpppbh": "CPPP00300",
+        "cpppmc": "海康威视",
+        "cpppywmc": "HKVISION"
+    },
+    {
+        "id": "315",
+        "cpppbh": "CPPP00301",
+        "cpppmc": "厨之选",
+        "cpppywmc": "HORECA"
+    },
+    {
+        "id": "316",
+        "cpppbh": "CPPP00302",
+        "cpppmc": "爱普生",
+        "cpppywmc": "EPSON"
+    },
+    {
+        "id": "317",
+        "cpppbh": "CPPP00303",
+        "cpppmc": "爱特福",
+        "cpppywmc": "AIFUTE"
+    },
+    {
+        "id": "318",
+        "cpppbh": "CPPP00304",
+        "cpppmc": "汰渍",
+        "cpppywmc": "Tide"
+    },
+    {
+        "id": "319",
+        "cpppbh": "CPPP00305",
+        "cpppmc": "蓝月亮",
+        "cpppywmc": "Bluemoon"
+    },
+    {
+        "id": "320",
+        "cpppbh": "CPPP00306",
+        "cpppmc": "赛西施",
+        "cpppywmc": "SAIXISHI"
+    },
+    {
+        "id": "321",
+        "cpppbh": "CPPP00307",
+        "cpppmc": "五月花",
+        "cpppywmc": "MAYFLOWER"
+    },
+    {
+        "id": "323",
+        "cpppbh": "CPPP00309",
+        "cpppmc": "上海速雷",
+        "cpppywmc": "sulei"
+    },
+    {
+        "id": "324",
+        "cpppbh": "CPPP00310",
+        "cpppmc": "田岛",
+        "cpppywmc": "TAJIMA"
+    },
+    {
+        "id": "325",
+        "cpppbh": "CPPP00311",
+        "cpppmc": "惠朗",
+        "cpppywmc": "huilang"
+    },
+    {
+        "id": "326",
+        "cpppbh": "CPPP00312",
+        "cpppmc": "测试",
+        "cpppywmc": "test"
+    },
+    {
+        "id": "327",
+        "cpppbh": "CPPP00313",
+        "cpppmc": "英飞凌",
+        "cpppywmc": "INFINEON"
+    },
+    {
+        "id": "328",
+        "cpppbh": "CPPP00314",
+        "cpppmc": "测试专用品牌",
+        "cpppywmc": "ceshi"
+    },
+    {
+        "id": "331",
+        "cpppbh": "CPPP00317",
+        "cpppmc": "上海人民",
+        "cpppywmc": "ShangHaiRenMin"
+    },
+    {
+        "id": "337",
+        "cpppbh": "CPPP00323",
+        "cpppmc": "金莱勒",
+        "cpppywmc": "GRL"
+    },
+    {
+        "id": "338",
+        "cpppbh": "CPPP00324",
+        "cpppmc": "富士",
+        "cpppywmc": "FUJI"
+    },
+    {
+        "id": "339",
+        "cpppbh": "CPPP00325",
+        "cpppmc": "上海良信",
+        "cpppywmc": "Nader"
+    },
+    {
+        "id": "341",
+        "cpppbh": "CPPP00327",
+        "cpppmc": "北京人民",
+        "cpppywmc": "BeiJingRenMin"
+    },
+    {
+        "id": "342",
+        "cpppbh": "CPPP00328",
+        "cpppmc": "LS产电",
+        "cpppywmc": "LS"
+    },
+    {
+        "id": "343",
+        "cpppbh": "CPPP00329",
+        "cpppmc": "施耐德万高",
+        "cpppywmc": "Schneider wingoal"
+    },
+    {
+        "id": "345",
+        "cpppbh": "CPPP00330",
+        "cpppmc": "奥托尼克斯",
+        "cpppywmc": "Autonics"
+    },
+    {
+        "id": "346",
+        "cpppbh": "CPPP00331",
+        "cpppmc": "康普",
+        "cpppywmc": "COMMSCOPE"
+    },
+    {
+        "id": "347",
+        "cpppbh": "CPPP00332",
+        "cpppmc": "富得快",
+        "cpppywmc": "FUDEKUAI"
+    },
+    {
+        "id": "348",
+        "cpppbh": "CPPP00333",
+        "cpppmc": "晨光",
+        "cpppywmc": "M&G"
+    },
+    {
+        "id": "349",
+        "cpppbh": "CPPP00334",
+        "cpppmc": "英雄",
+        "cpppywmc": "HERO"
+    },
+    {
+        "id": "350",
+        "cpppbh": "CPPP00335",
+        "cpppmc": "EZ-RJ",
+        "cpppywmc": "EZ-RJ"
+    },
+    {
+        "id": "351",
+        "cpppbh": "CPPP00336",
+        "cpppmc": "爱马斯",
+        "cpppywmc": "AMMEX"
+    },
+    {
+        "id": "352",
+        "cpppbh": "CPPP00337",
+        "cpppmc": "白云",
+        "cpppywmc": "CB"
+    },
+    {
+        "id": "353",
+        "cpppbh": "CPPP00338",
+        "cpppmc": "步步高",
+        "cpppywmc": "BBK"
+    },
+    {
+        "id": "354",
+        "cpppbh": "CPPP00339",
+        "cpppmc": "易利丰",
+        "cpppywmc": "elifo"
+    },
+    {
+        "id": "355",
+        "cpppbh": "CPPP00340",
+        "cpppmc": "菓珍",
+        "cpppywmc": "GUOZHEN"
+    },
+    {
+        "id": "356",
+        "cpppbh": "CPPP00341",
+        "cpppmc": "金莲",
+        "cpppywmc": "JINLIAN"
+    },
+    {
+        "id": "357",
+        "cpppbh": "CPPP00342",
+        "cpppmc": "金士顿",
+        "cpppywmc": "Kingston"
+    },
+    {
+        "id": "358",
+        "cpppbh": "CPPP00343",
+        "cpppmc": "卡西欧",
+        "cpppywmc": "CASIO"
+    },
+    {
+        "id": "359",
+        "cpppbh": "CPPP00344",
+        "cpppmc": "李字",
+        "cpppywmc": "LIZI"
+    },
+    {
+        "id": "360",
+        "cpppbh": "CPPP00345",
+        "cpppmc": "绿苏荷",
+        "cpppywmc": "LUSUHE"
+    },
+    {
+        "id": "361",
+        "cpppbh": "CPPP00346",
+        "cpppmc": "群稀",
+        "cpppywmc": "QUNXI"
+    },
+    {
+        "id": "362",
+        "cpppbh": "CPPP00347",
+        "cpppmc": "山特",
+        "cpppywmc": "SANTAK"
+    },
+    {
+        "id": "363",
+        "cpppbh": "CPPP00348",
+        "cpppmc": "闪迪",
+        "cpppywmc": "SanDisk"
+    },
+    {
+        "id": "364",
+        "cpppbh": "CPPP00349",
+        "cpppmc": "威猛先生",
+        "cpppywmc": "Mr Muscle"
+    },
+    {
+        "id": "365",
+        "cpppbh": "CPPP00350",
+        "cpppmc": "迅时",
+        "cpppywmc": "NewRock"
+    },
+    {
+        "id": "373",
+        "cpppbh": "CPPP00358",
+        "cpppmc": "卓岚",
+        "cpppywmc": "Zhuolan"
+    },
+    {
+        "id": "374",
+        "cpppbh": "CPPP00359",
+        "cpppmc": "科博睿",
+        "cpppywmc": "Keborui"
+    },
+    {
+        "id": "375",
+        "cpppbh": "CPPP00360",
+        "cpppmc": "华力",
+        "cpppywmc": "Huali"
+    },
+    {
+        "id": "376",
+        "cpppbh": "CPPP00361",
+        "cpppmc": "兆越",
+        "cpppywmc": "Zhaoyue"
+    },
+    {
+        "id": "377",
+        "cpppbh": "CPPP00362",
+        "cpppmc": "宇泰",
+        "cpppywmc": "Yutai"
+    },
+    {
+        "id": "378",
+        "cpppbh": "CPPP00363",
+        "cpppmc": "格之格",
+        "cpppywmc": "Gezhige"
+    },
+    {
+        "id": "379",
+        "cpppbh": "CPPP00364",
+        "cpppmc": "无锡精通气动",
+        "cpppywmc": "Jintongqidong"
+    },
+    {
+        "id": "380",
+        "cpppbh": "CPPP00365",
+        "cpppmc": "密理博",
+        "cpppywmc": "Millipore"
+    },
+    {
+        "id": "381",
+        "cpppbh": "CPPP00366",
+        "cpppmc": "西安西整",
+        "cpppywmc": "Xizhen"
+    },
+    {
+        "id": "382",
+        "cpppbh": "CPPP00367",
+        "cpppmc": "派瑞",
+        "cpppywmc": "PERI"
+    },
+    {
+        "id": "383",
+        "cpppbh": "CPPP00368",
+        "cpppmc": "阻尼",
+        "cpppywmc": "Zuni"
+    },
+    {
+        "id": "384",
+        "cpppbh": "CPPP00369",
+        "cpppmc": "无锡优派",
+        "cpppywmc": "Youpai"
+    },
+    {
+        "id": "385",
+        "cpppbh": "CPPP00370",
+        "cpppmc": "奔日电器",
+        "cpppywmc": "Benri"
+    },
+    {
+        "id": "386",
+        "cpppbh": "CPPP00371",
+        "cpppmc": "上海梅格",
+        "cpppywmc": "Meige"
+    },
+    {
+        "id": "387",
+        "cpppbh": "CPPP00372",
+        "cpppmc": "里奇",
+        "cpppywmc": "RIDGID"
+    },
+    {
+        "id": "388",
+        "cpppbh": "CPPP00373",
+        "cpppmc": "希崖",
+        "cpppywmc": "Xiya"
+    },
+    {
+        "id": "389",
+        "cpppbh": "CPPP00374",
+        "cpppmc": "清风",
+        "cpppywmc": "Breeze"
+    },
+    {
+        "id": "390",
+        "cpppbh": "CPPP00375",
+        "cpppmc": "可得优",
+        "cpppywmc": "KW-triO"
+    },
+    {
+        "id": "391",
+        "cpppbh": "CPPP00376",
+        "cpppmc": "布莱迪",
+        "cpppywmc": "Brighty"
+    },
+    {
+        "id": "392",
+        "cpppbh": "CPPP00377",
+        "cpppmc": "重庆川仪",
+        "cpppywmc": "Chuanyi"
+    },
+    {
+        "id": "393",
+        "cpppbh": "CPPP00378",
+        "cpppmc": "余姚市三力信",
+        "cpppywmc": "Sanlixin"
+    },
+    {
+        "id": "394",
+        "cpppbh": "CPPP00379",
+        "cpppmc": "玛赫",
+        "cpppywmc": "Mahe"
+    },
+    {
+        "id": "395",
+        "cpppbh": "CPPP00380",
+        "cpppmc": "金鸟",
+        "cpppywmc": "Jinniao"
+    },
+    {
+        "id": "396",
+        "cpppbh": "CPPP00381",
+        "cpppmc": "威诺",
+        "cpppywmc": "Weinuo"
+    },
+    {
+        "id": "397",
+        "cpppbh": "CPPP00382",
+        "cpppmc": "尔东科技",
+        "cpppywmc": "Erdong"
+    },
+    {
+        "id": "398",
+        "cpppbh": "CPPP00383",
+        "cpppmc": "科赛乐",
+        "cpppywmc": "Casella"
+    },
+    {
+        "id": "399",
+        "cpppbh": "CPPP00384",
+        "cpppmc": "泰罗松",
+        "cpppywmc": "TEROSON"
+    },
+    {
+        "id": "400",
+        "cpppbh": "CPPP00385",
+        "cpppmc": "上海志远",
+        "cpppywmc": "zhiyuansh"
+    },
+    {
+        "id": "401",
+        "cpppbh": "CPPP00386",
+        "cpppmc": "无锡蓝虹",
+        "cpppywmc": "lanhong"
+    },
+    {
+        "id": "402",
+        "cpppbh": "CPPP00387",
+        "cpppmc": "罗克韦尔",
+        "cpppywmc": "rockwell"
+    },
+    {
+        "id": "403",
+        "cpppbh": "CPPP00388",
+        "cpppmc": "利达",
+        "cpppywmc": "lida"
+    },
+    {
+        "id": "404",
+        "cpppbh": "CPPP00389",
+        "cpppmc": "力特",
+        "cpppywmc": "Littelfuse"
+    }],
+    "message": "产品品牌列表"
+}

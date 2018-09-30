@@ -1,0 +1,27 @@
+{
+    "status": 1,
+    "data":
+    {
+        "total_htje": "207.24",
+        "list": [
+        {
+            "cpppbh": "CPPP00005",
+            "cpppmc": "施耐德",
+            "htje": 207.24,
+            "rank": 2
+        },
+        {
+            "cpppbh": "CPPP00004",
+            "cpppmc": "ABB",
+            "htje": 279.24,
+            "rank": 1
+        },
+        {
+            "cpppbh": "CPPP00001",
+            "cpppmc": "西门子",
+            "htje": 100,
+            "rank": 3
+        }]
+    },
+    "message": "获取成功！"
+}

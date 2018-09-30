@@ -59,9 +59,6 @@ export const otherRouter = {
         { path: 'edit-password', title: '修改密码', meta: {isSpecial: true}, name: 'ownspace_edit_password', component: resolve => { require(['./views/own-space/editPassword.vue'], resolve); } },
         /*销售排行数据分析*/
         { path: '/sales_ranking/analytical_data', meta: {belong: 'salesRinking_index', path: '/sales_ranking/index?reserveDate=1', title: '销售排行'}, title: '个人数据', name: 'sales_analytical_data', component: resolve => { require(['./views/main/salesModule/sales_ranking/analyticalData.vue'], resolve); } },
-        /*团队分析数据分析*/
-        { path: '/team_analysis/analytical_data', meta: {belong: 'team_analysis_index', path: '/team_analysis/index?reserveDate=1', title: '团队分析'}, title: '团队数据', name: 'team_analytical_data', component: resolve => { require(['./views/main/salesModule/team_analysis/analysisData.vue'], resolve); } },
-        { path: '/team_analysis/analytical_person_data', meta: {belong: 'team_analysis_index', path: '/team_analysis/index?reserveDate=1', title: '团队分析'}, title: '个人数据', name: 'team_person_analytical_data', component: resolve => { require(['./views/main/salesModule/sales_ranking/analyticalData.vue'], resolve); } },
         //客户分析
         { path: '/custom_analyze/analytical_data', meta: {belong: 'custom_analyze_index', path: '/customer_analysis/index?reserveDate=1',  title: '客户分析'}, title: '客户详情数据', name: 'custom_analyze_data', component: resolve => { require(['./views/main/salesModule/custom_analyze/analyticalData.vue'], resolve); } },
         // 品牌系列分析
@@ -75,23 +72,6 @@ export const otherRouter = {
 // 作为Main组件的子页面展示并且在左侧菜单显示的路由写在appRouter里
 // 销售模块 共用团队分析、客户分析
 export const appRouter = [
-    {
-        path: '/team_analysis',
-        icon: 'android-contacts',
-        title: '团队分析',
-        name: 'team_analysis',
-        order: 21,
-        component: Main,
-        children: [
-            {
-                path: 'index',
-                icon: 'android-contacts',
-                name: 'team_analysis_index',
-                title: '团队分析',
-                component: resolve => { require(['./views/main/salesModule/team_analysis/index.vue'], resolve); }
-            }
-        ]
-    },
     {
         path: '/sales_ranking',
         icon: 'connection-bars',

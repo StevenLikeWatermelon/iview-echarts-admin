@@ -1,0 +1,12 @@
+{
+    "status": 1,
+    "data":
+    {
+        "total":
+        {
+            "order_amount": 8657.9,
+            "paid_amount": 8657.9
+        }
+    },
+    "message": ""
+}

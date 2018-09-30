@@ -36,7 +36,7 @@ const setCookieAndLocalstorage = (res) => {
  * 登录接口
  */
 export const apiLogin = (_this, data) => {
-    return _this.$post('/login', data).then(res => {
+    return _this.$fetch('/login', data).then(res => {
         if (res.status === -1) {
             apiLoginOut(_this, {
                 token: setToken()

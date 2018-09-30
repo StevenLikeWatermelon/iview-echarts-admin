@@ -1,0 +1,79 @@
+{
+	"status": 1,
+	"data": {
+		"total": {
+			"order_amount": 237.24,
+			"paid_amount": 48,
+			"order_count": 30,
+			"paid_count": 99,
+			"return_amount": "320.0000",
+			"return_count": 32,
+			"refund_amount": 98,
+			"refund_count": "77.0000",
+			"out_count": 0,
+			"out_amount": "0.0000"
+		},
+		"user": [{
+				"order_amount": 100,
+				"paid_amount": 48,
+				"order_count": 30,
+				"paid_count": 99,
+				"return_amount": 32,
+				"return_count": 32,
+				"refund_amount": 98,
+				"refund_count": 77,
+				"user_no": "SW00123",
+				"user_name": "客服潘玲莉",
+				"sell_out_num": 35,
+				"sell_out_amount": 13,
+				"rank": 2
+			},
+			{
+				"order_amount": 50,
+				"paid_amount": 48,
+				"order_count": 30,
+				"paid_count": 99,
+				"return_amount": 32,
+				"return_count": 32,
+				"refund_amount": 98,
+				"refund_count": 77,
+				"user_no": "YD00020",
+				"user_name": "吕金龙",
+				"sell_out_num": 35,
+				"sell_out_amount": 13,
+				"rank": 3
+			},
+			{
+				"order_amount": 21,
+				"paid_amount": 48,
+				"order_count": 30,
+				"paid_count": 99,
+				"return_amount": 32,
+				"return_count": 32,
+				"refund_amount": 98,
+				"refund_count": 77,
+				"user_no": "YD77777",
+				"user_name": "宜电商城",
+				"sell_out_num": 35,
+				"sell_out_amount": 13,
+				"rank": 4
+			},
+			{
+				"order_amount": 237.24,
+				"paid_amount": 48,
+				"order_count": 30,
+				"paid_count": 99,
+				"return_amount": 32,
+				"return_count": 32,
+				"refund_amount": 98,
+				"refund_count": 77,
+				"user_no": "YD00160",
+				"user_name": "韩博文",
+				"sell_out_num": 35,
+				"sell_out_amount": 13,
+				"rank": 1
+			}
+		]
+	},
+	"message": ""
+}

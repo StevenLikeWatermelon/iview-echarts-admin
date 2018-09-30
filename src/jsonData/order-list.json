@@ -1,0 +1,359 @@
+{
+    "status": 1,
+    "data":
+    {
+        "list": [
+        {
+            "djbh": "HTT-180930-0001",
+            "khmc": "李志伟测试",
+            "lxr": "李志伟",
+            "sjhm": "13512526568",
+            "djrq": "2018-09-30 08:49:03",
+            "ddje": "198.6600",
+            "yfje": "213.6600",
+            "sfje": "0.0000",
+            "xshtdzt": "0",
+            "khzfzt": "0",
+            "czyg": "吕金龙",
+            "czyg_ygbh": "YD00020/吕金龙",
+            "xsyg": "韩博文",
+            "xsyg_ygbh": "YD00160/韩博文",
+            "rel_order_type": "2",
+            "rel_order_no": "TG-180930-0000",
+            "thdjbhs": null
+        },
+        {
+            "djbh": "HTT-180929-0001",
+            "khmc": "李志伟测试",
+            "lxr": "李志伟",
+            "sjhm": "13512526568",
+            "djrq": "2018-09-29 17:26:13",
+            "ddje": "8.5800",
+            "yfje": "23.5800",
+            "sfje": "0.0000",
+            "xshtdzt": "0",
+            "khzfzt": "0",
+            "czyg": "吕金龙",
+            "czyg_ygbh": "YD00020/吕金龙",
+            "xsyg": "韩博文",
+            "xsyg_ygbh": "YD00160/韩博文",
+            "rel_order_type": "3",
+            "rel_order_no": "",
+            "thdjbhs": null
+        },
+        {
+            "djbh": "HTT-180921-0003",
+            "khmc": "李志伟测试",
+            "lxr": "李志伟",
+            "sjhm": "13512526568",
+            "djrq": "2018-09-21 09:20:46",
+            "ddje": "130.9700",
+            "yfje": "145.9700",
+            "sfje": "0.0000",
+            "xshtdzt": "7",
+            "khzfzt": "0",
+            "czyg": "吕金龙",
+            "czyg_ygbh": "YD00020/吕金龙",
+            "xsyg": "韩博文",
+            "xsyg_ygbh": "YD00160/韩博文",
+            "rel_order_type": "0",
+            "rel_order_no": "",
+            "thdjbhs": null
+        },
+        {
+            "djbh": "HTT-180904-0036",
+            "khmc": "李志伟测试",
+            "lxr": "李志伟",
+            "sjhm": "13512526568",
+            "djrq": "2018-09-04 09:04:11",
+            "ddje": "7.6600",
+            "yfje": "22.6600",
+            "sfje": "0.0000",
+            "xshtdzt": "7",
+            "khzfzt": "0",
+            "czyg": "吕金龙",
+            "czyg_ygbh": "YD00020/吕金龙",
+            "xsyg": "韩博文",
+            "xsyg_ygbh": "YD00160/韩博文",
+            "rel_order_type": "0",
+            "rel_order_no": "",
+            "thdjbhs": null
+        },
+        {
+            "djbh": "HTT-180904-0035",
+            "khmc": "李志伟测试",
+            "lxr": "李志伟",
+            "sjhm": "13512526568",
+            "djrq": "2018-09-04 09:03:58",
+            "ddje": "45.7100",
+            "yfje": "60.7100",
+            "sfje": "0.0000",
+            "xshtdzt": "0",
+            "khzfzt": "0",
+            "czyg": "吕金龙",
+            "czyg_ygbh": "YD00020/吕金龙",
+            "xsyg": "韩博文",
+            "xsyg_ygbh": "YD00160/韩博文",
+            "rel_order_type": "0",
+            "rel_order_no": "",
+            "thdjbhs": null
+        },
+        {
+            "djbh": "HTT-180904-0034",
+            "khmc": "李志伟测试",
+            "lxr": "李志伟",
+            "sjhm": "13512526568",
+            "djrq": "2018-09-04 09:03:48",
+            "ddje": "14.0400",
+            "yfje": "29.0400",
+            "sfje": "0.0000",
+            "xshtdzt": "0",
+            "khzfzt": "0",
+            "czyg": "吕金龙",
+            "czyg_ygbh": "YD00020/吕金龙",
+            "xsyg": "韩博文",
+            "xsyg_ygbh": "YD00160/韩博文",
+            "rel_order_type": "0",
+            "rel_order_no": "",
+            "thdjbhs": null
+        },
+        {
+            "djbh": "HTT-180904-0033",
+            "khmc": "李志伟测试",
+            "lxr": "李志伟",
+            "sjhm": "13512526568",
+            "djrq": "2018-09-04 09:03:42",
+            "ddje": "43.5100",
+            "yfje": "58.5100",
+            "sfje": "0.0000",
+            "xshtdzt": "7",
+            "khzfzt": "0",
+            "czyg": "吕金龙",
+            "czyg_ygbh": "YD00020/吕金龙",
+            "xsyg": "韩博文",
+            "xsyg_ygbh": "YD00160/韩博文",
+            "rel_order_type": "0",
+            "rel_order_no": "",
+            "thdjbhs": null
+        },
+        {
+            "djbh": "HTT-180904-0032",
+            "khmc": "李志伟测试",
+            "lxr": "李志伟",
+            "sjhm": "13512526568",
+            "djrq": "2018-09-04 09:03:34",
+            "ddje": "102.3200",
+            "yfje": "117.3200",
+            "sfje": "0.0000",
+            "xshtdzt": "7",
+            "khzfzt": "0",
+            "czyg": "吕金龙",
+            "czyg_ygbh": "YD00020/吕金龙",
+            "xsyg": "韩博文",
+            "xsyg_ygbh": "YD00160/韩博文",
+            "rel_order_type": "0",
+            "rel_order_no": "",
+            "thdjbhs": null
+        },
+        {
+            "djbh": "HTT-180904-0031",
+            "khmc": "李志伟测试",
+            "lxr": "李志伟",
+            "sjhm": "13512526568",
+            "djrq": "2018-09-04 09:03:25",
+            "ddje": "418.8800",
+            "yfje": "433.8800",
+            "sfje": "0.0000",
+            "xshtdzt": "7",
+            "khzfzt": "0",
+            "czyg": "吕金龙",
+            "czyg_ygbh": "YD00020/吕金龙",
+            "xsyg": "韩博文",
+            "xsyg_ygbh": "YD00160/韩博文",
+            "rel_order_type": "0",
+            "rel_order_no": "",
+            "thdjbhs": null
+        },
+        {
+            "djbh": "HTT-180904-0030",
+            "khmc": "李志伟测试",
+            "lxr": "李志伟",
+            "sjhm": "13512526568",
+            "djrq": "2018-09-04 09:03:18",
+            "ddje": "92.4200",
+            "yfje": "107.4200",
+            "sfje": "0.0000",
+            "xshtdzt": "7",
+            "khzfzt": "0",
+            "czyg": "吕金龙",
+            "czyg_ygbh": "YD00020/吕金龙",
+            "xsyg": "韩博文",
+            "xsyg_ygbh": "YD00160/韩博文",
+            "rel_order_type": "0",
+            "rel_order_no": "",
+            "thdjbhs": null
+        }],
+        "totalCount": 4989,
+        "totalPage": 499,
+        "pageNum": 1,
+        "numPerPage": 10,
+        "xsyg": [
+        {
+            "ygbh": "YD00027",
+            "ygxm": "潘红宇"
+        },
+        {
+            "ygbh": "YD00186",
+            "ygxm": "孙安静"
+        },
+        {
+            "ygbh": "YD00106",
+            "ygxm": "李宇寒"
+        },
+        {
+            "ygbh": "YD00091",
+            "ygxm": "周丽"
+        },
+        {
+            "ygbh": "YD00020",
+            "ygxm": "吕金龙"
+        },
+        {
+            "ygbh": "YD00092",
+            "ygxm": "陈洋"
+        },
+        {
+            "ygbh": "YD00070",
+            "ygxm": "查胤"
+        },
+        {
+            "ygbh": "YD00041",
+            "ygxm": "樊晨鸣"
+        },
+        {
+            "ygbh": "YD00022",
+            "ygxm": "吴益清"
+        },
+        {
+            "ygbh": "YD00161",
+            "ygxm": "姚二雄"
+        },
+        {
+            "ygbh": "YD00190",
+            "ygxm": "茅慧贤"
+        },
+        {
+            "ygbh": "YD00021",
+            "ygxm": "管厚超"
+        },
+        {
+            "ygbh": "YD00182",
+            "ygxm": "王震"
+        },
+        {
+            "ygbh": "YD00060",
+            "ygxm": "鲁梦园"
+        },
+        {
+            "ygbh": "YD00066",
+            "ygxm": "翟玮"
+        },
+        {
+            "ygbh": "YD00043",
+            "ygxm": "王铭"
+        },
+        {
+            "ygbh": "YD00160",
+            "ygxm": "韩博文"
+        },
+        {
+            "ygbh": "YD00177",
+            "ygxm": "王实"
+        },
+        {
+            "ygbh": "YD00166",
+            "ygxm": "吴沛良"
+        },
+        {
+            "ygbh": "YD00176",
+            "ygxm": "张赛"
+        },
+        {
+            "ygbh": "YD00059",
+            "ygxm": "夷亚娟"
+        },
+        {
+            "ygbh": "YD00102",
+            "ygxm": "林荣"
+        },
+        {
+            "ygbh": "YD00178",
+            "ygxm": "贺雅楠"
+        },
+        {
+            "ygbh": "YD00193",
+            "ygxm": "向茂斌"
+        },
+        {
+            "ygbh": "YD00194",
+            "ygxm": "许文娟"
+        },
+        {
+            "ygbh": "YD00198",
+            "ygxm": "宋荣妹"
+        },
+        {
+            "ygbh": "YD00200",
+            "ygxm": "闫刘明"
+        },
+        {
+            "ygbh": "YD00213",
+            "ygxm": "汤娟花"
+        },
+        {
+            "ygbh": "YD00216",
+            "ygxm": "钱怡玟"
+        },
+        {
+            "ygbh": "SW00123",
+            "ygxm": "客服潘玲莉"
+        },
+        {
+            "ygbh": "YD00205",
+            "ygxm": "张莲莲"
+        },
+        {
+            "ygbh": "YD77777",
+            "ygxm": "宜电商城"
+        },
+        {
+            "ygbh": "YD00206",
+            "ygxm": "唐丹"
+        },
+        {
+            "ygbh": "YD00232",
+            "ygxm": "汤秀娟"
+        },
+        {
+            "ygbh": "YD00234",
+            "ygxm": "殷彤"
+        },
+        {
+            "ygbh": "YD00235",
+            "ygxm": "王丛丛"
+        },
+        {
+            "ygbh": "YD00204",
+            "ygxm": "纪辉林"
+        },
+        {
+            "ygbh": "YD00241",
+            "ygxm": "刘东彪"
+        },
+        {
+            "ygbh": "YD00244",
+            "ygxm": "张梦媚"
+        }]
+    },
+    "message": "获取成功"
+}

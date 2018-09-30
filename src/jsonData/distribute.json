@@ -1,0 +1,687 @@
+{
+    "status": 1,
+    "data":
+    {
+        "list": [
+        {
+            "kh_all_nums": 23,
+            "kh_deal_nums": 1,
+            "province": "河北省",
+            "echarts_province": "河北",
+            "yfje": "237.24",
+            "sfje": "0.00",
+            "rank": 1
+        },
+        {
+            "kh_all_nums": 1,
+            "kh_deal_nums": 0,
+            "province": "内蒙古自治区",
+            "echarts_province": "内蒙古",
+            "yfje": 0,
+            "sfje": 0,
+            "rank": 2
+        },
+        {
+            "kh_all_nums": 1,
+            "kh_deal_nums": 0,
+            "province": "吉林省",
+            "echarts_province": "吉林",
+            "yfje": 0,
+            "sfje": 0,
+            "rank": 2
+        },
+        {
+            "kh_all_nums": 1,
+            "kh_deal_nums": 0,
+            "province": "甘肃省",
+            "echarts_province": "甘肃",
+            "yfje": 0,
+            "sfje": 0,
+            "rank": 2
+        },
+        {
+            "kh_all_nums": 2,
+            "kh_deal_nums": 0,
+            "province": "广西壮族自治区",
+            "echarts_province": "广西",
+            "yfje": 0,
+            "sfje": 0,
+            "rank": 2
+        },
+        {
+            "kh_all_nums": 2,
+            "kh_deal_nums": 0,
+            "province": "黑龙江省",
+            "echarts_province": "黑龙江",
+            "yfje": 0,
+            "sfje": 0,
+            "rank": 2
+        },
+        {
+            "kh_all_nums": 3,
+            "kh_deal_nums": 0,
+            "province": "云南省",
+            "echarts_province": "云南",
+            "yfje": 0,
+            "sfje": 0,
+            "rank": 2
+        },
+        {
+            "kh_all_nums": 4,
+            "kh_deal_nums": 0,
+            "province": "新疆维吾尔自治区",
+            "echarts_province": "新疆",
+            "yfje": 0,
+            "sfje": 0,
+            "rank": 2
+        },
+        {
+            "kh_all_nums": 8,
+            "kh_deal_nums": 0,
+            "province": "山西省",
+            "echarts_province": "山西",
+            "yfje": 0,
+            "sfje": 0,
+            "rank": 2
+        },
+        {
+            "kh_all_nums": 8,
+            "kh_deal_nums": 0,
+            "province": "贵州省",
+            "echarts_province": "贵州",
+            "yfje": 0,
+            "sfje": 0,
+            "rank": 2
+        },
+        {
+            "kh_all_nums": 9,
+            "kh_deal_nums": 0,
+            "province": "天津",
+            "echarts_province": "天津",
+            "yfje": 0,
+            "sfje": 0,
+            "rank": 2
+        },
+        {
+            "kh_all_nums": 9,
+            "kh_deal_nums": 0,
+            "province": "重庆",
+            "echarts_province": "重庆",
+            "yfje": 0,
+            "sfje": 0,
+            "rank": 2
+        },
+        {
+            "kh_all_nums": 10,
+            "kh_deal_nums": 0,
+            "province": "江西省",
+            "echarts_province": "江西",
+            "yfje": 0,
+            "sfje": 0,
+            "rank": 2
+        },
+        {
+            "kh_all_nums": 14,
+            "kh_deal_nums": 0,
+            "province": "四川省",
+            "echarts_province": "四川",
+            "yfje": 0,
+            "sfje": 0,
+            "rank": 2
+        },
+        {
+            "kh_all_nums": 18,
+            "kh_deal_nums": 0,
+            "province": "辽宁省",
+            "echarts_province": "辽宁",
+            "yfje": 0,
+            "sfje": 0,
+            "rank": 2
+        },
+        {
+            "kh_all_nums": 19,
+            "kh_deal_nums": 0,
+            "province": "湖南省",
+            "echarts_province": "湖南",
+            "yfje": 0,
+            "sfje": 0,
+            "rank": 2
+        },
+        {
+            "kh_all_nums": 20,
+            "kh_deal_nums": 0,
+            "province": "湖北省",
+            "echarts_province": "湖北",
+            "yfje": 0,
+            "sfje": 0,
+            "rank": 2
+        },
+        {
+            "kh_all_nums": 25,
+            "kh_deal_nums": 0,
+            "province": "北京",
+            "echarts_province": "北京",
+            "yfje": 0,
+            "sfje": 0,
+            "rank": 2
+        },
+        {
+            "kh_all_nums": 62,
+            "kh_deal_nums": 0,
+            "province": "陕西省",
+            "echarts_province": "陕西",
+            "yfje": 0,
+            "sfje": 0,
+            "rank": 2
+        },
+        {
+            "kh_all_nums": 63,
+            "kh_deal_nums": 0,
+            "province": "河南省",
+            "echarts_province": "河南",
+            "yfje": 0,
+            "sfje": 0,
+            "rank": 2
+        },
+        {
+            "kh_all_nums": 73,
+            "kh_deal_nums": 0,
+            "province": "山东省",
+            "echarts_province": "山东",
+            "yfje": 0,
+            "sfje": 0,
+            "rank": 2
+        },
+        {
+            "kh_all_nums": 76,
+            "kh_deal_nums": 0,
+            "province": "安徽省",
+            "echarts_province": "安徽",
+            "yfje": 0,
+            "sfje": 0,
+            "rank": 2
+        },
+        {
+            "kh_all_nums": 90,
+            "kh_deal_nums": 0,
+            "province": "福建省",
+            "echarts_province": "福建",
+            "yfje": 0,
+            "sfje": 0,
+            "rank": 2
+        },
+        {
+            "kh_all_nums": 157,
+            "kh_deal_nums": 0,
+            "province": "广东省",
+            "echarts_province": "广东",
+            "yfje": 0,
+            "sfje": 0,
+            "rank": 2
+        },
+        {
+            "kh_all_nums": 167,
+            "kh_deal_nums": 0,
+            "province": "上海",
+            "echarts_province": "上海",
+            "yfje": 0,
+            "sfje": 0,
+            "rank": 2
+        },
+        {
+            "kh_all_nums": 167,
+            "kh_deal_nums": 0,
+            "province": "浙江省",
+            "echarts_province": "浙江",
+            "yfje": 0,
+            "sfje": 0,
+            "rank": 2
+        },
+        {
+            "kh_all_nums": 446,
+            "kh_deal_nums": 0,
+            "province": "江苏省",
+            "echarts_province": "江苏",
+            "yfje": 0,
+            "sfje": 0,
+            "rank": 2
+        }],
+        "kh_all_list": [
+        {
+            "name": "河北",
+            "value": 23
+        },
+        {
+            "name": "内蒙古",
+            "value": 1
+        },
+        {
+            "name": "吉林",
+            "value": 1
+        },
+        {
+            "name": "甘肃",
+            "value": 1
+        },
+        {
+            "name": "广西",
+            "value": 2
+        },
+        {
+            "name": "黑龙江",
+            "value": 2
+        },
+        {
+            "name": "云南",
+            "value": 3
+        },
+        {
+            "name": "新疆",
+            "value": 4
+        },
+        {
+            "name": "山西",
+            "value": 8
+        },
+        {
+            "name": "贵州",
+            "value": 8
+        },
+        {
+            "name": "天津",
+            "value": 9
+        },
+        {
+            "name": "重庆",
+            "value": 9
+        },
+        {
+            "name": "江西",
+            "value": 10
+        },
+        {
+            "name": "四川",
+            "value": 14
+        },
+        {
+            "name": "辽宁",
+            "value": 18
+        },
+        {
+            "name": "湖南",
+            "value": 19
+        },
+        {
+            "name": "湖北",
+            "value": 20
+        },
+        {
+            "name": "北京",
+            "value": 25
+        },
+        {
+            "name": "陕西",
+            "value": 62
+        },
+        {
+            "name": "河南",
+            "value": 63
+        },
+        {
+            "name": "山东",
+            "value": 73
+        },
+        {
+            "name": "安徽",
+            "value": 76
+        },
+        {
+            "name": "福建",
+            "value": 90
+        },
+        {
+            "name": "广东",
+            "value": 157
+        },
+        {
+            "name": "上海",
+            "value": 167
+        },
+        {
+            "name": "浙江",
+            "value": 167
+        },
+        {
+            "name": "江苏",
+            "value": 446
+        }],
+        "kh_deal_list": [
+        {
+            "name": "河北",
+            "value": 1
+        },
+        {
+            "name": "内蒙古",
+            "value": 0
+        },
+        {
+            "name": "吉林",
+            "value": 0
+        },
+        {
+            "name": "甘肃",
+            "value": 0
+        },
+        {
+            "name": "广西",
+            "value": 0
+        },
+        {
+            "name": "黑龙江",
+            "value": 0
+        },
+        {
+            "name": "云南",
+            "value": 0
+        },
+        {
+            "name": "新疆",
+            "value": 0
+        },
+        {
+            "name": "山西",
+            "value": 0
+        },
+        {
+            "name": "贵州",
+            "value": 0
+        },
+        {
+            "name": "天津",
+            "value": 0
+        },
+        {
+            "name": "重庆",
+            "value": 0
+        },
+        {
+            "name": "江西",
+            "value": 0
+        },
+        {
+            "name": "四川",
+            "value": 0
+        },
+        {
+            "name": "辽宁",
+            "value": 0
+        },
+        {
+            "name": "湖南",
+            "value": 0
+        },
+        {
+            "name": "湖北",
+            "value": 0
+        },
+        {
+            "name": "北京",
+            "value": 0
+        },
+        {
+            "name": "陕西",
+            "value": 0
+        },
+        {
+            "name": "河南",
+            "value": 0
+        },
+        {
+            "name": "山东",
+            "value": 0
+        },
+        {
+            "name": "安徽",
+            "value": 0
+        },
+        {
+            "name": "福建",
+            "value": 0
+        },
+        {
+            "name": "广东",
+            "value": 0
+        },
+        {
+            "name": "上海",
+            "value": 0
+        },
+        {
+            "name": "浙江",
+            "value": 0
+        },
+        {
+            "name": "江苏",
+            "value": 0
+        }],
+        "order_all_amount": [
+        {
+            "name": "河北",
+            "value": "237.24"
+        },
+        {
+            "name": "内蒙古",
+            "value": 0
+        },
+        {
+            "name": "吉林",
+            "value": 0
+        },
+        {
+            "name": "甘肃",
+            "value": 0
+        },
+        {
+            "name": "广西",
+            "value": 0
+        },
+        {
+            "name": "黑龙江",
+            "value": 0
+        },
+        {
+            "name": "云南",
+            "value": 0
+        },
+        {
+            "name": "新疆",
+            "value": 0
+        },
+        {
+            "name": "山西",
+            "value": 0
+        },
+        {
+            "name": "贵州",
+            "value": 0
+        },
+        {
+            "name": "天津",
+            "value": 0
+        },
+        {
+            "name": "重庆",
+            "value": 0
+        },
+        {
+            "name": "江西",
+            "value": 0
+        },
+        {
+            "name": "四川",
+            "value": 0
+        },
+        {
+            "name": "辽宁",
+            "value": 0
+        },
+        {
+            "name": "湖南",
+            "value": 0
+        },
+        {
+            "name": "湖北",
+            "value": 0
+        },
+        {
+            "name": "北京",
+            "value": 0
+        },
+        {
+            "name": "陕西",
+            "value": 0
+        },
+        {
+            "name": "河南",
+            "value": 0
+        },
+        {
+            "name": "山东",
+            "value": 0
+        },
+        {
+            "name": "安徽",
+            "value": 0
+        },
+        {
+            "name": "福建",
+            "value": 0
+        },
+        {
+            "name": "广东",
+            "value": 0
+        },
+        {
+            "name": "上海",
+            "value": 0
+        },
+        {
+            "name": "浙江",
+            "value": 0
+        },
+        {
+            "name": "江苏",
+            "value": 0
+        }],
+        "order_pay_amount": [
+        {
+            "name": "河北",
+            "value": "0.00"
+        },
+        {
+            "name": "内蒙古",
+            "value": 0
+        },
+        {
+            "name": "吉林",
+            "value": 0
+        },
+        {
+            "name": "甘肃",
+            "value": 0
+        },
+        {
+            "name": "广西",
+            "value": 0
+        },
+        {
+            "name": "黑龙江",
+            "value": 0
+        },
+        {
+            "name": "云南",
+            "value": 0
+        },
+        {
+            "name": "新疆",
+            "value": 0
+        },
+        {
+            "name": "山西",
+            "value": 0
+        },
+        {
+            "name": "贵州",
+            "value": 0
+        },
+        {
+            "name": "天津",
+            "value": 0
+        },
+        {
+            "name": "重庆",
+            "value": 0
+        },
+        {
+            "name": "江西",
+            "value": 0
+        },
+        {
+            "name": "四川",
+            "value": 0
+        },
+        {
+            "name": "辽宁",
+            "value": 0
+        },
+        {
+            "name": "湖南",
+            "value": 0
+        },
+        {
+            "name": "湖北",
+            "value": 0
+        },
+        {
+            "name": "北京",
+            "value": 0
+        },
+        {
+            "name": "陕西",
+            "value": 0
+        },
+        {
+            "name": "河南",
+            "value": 0
+        },
+        {
+            "name": "山东",
+            "value": 0
+        },
+        {
+            "name": "安徽",
+            "value": 0
+        },
+        {
+            "name": "福建",
+            "value": 0
+        },
+        {
+            "name": "广东",
+            "value": 0
+        },
+        {
+            "name": "上海",
+            "value": 0
+        },
+        {
+            "name": "浙江",
+            "value": 0
+        },
+        {
+            "name": "江苏",
+            "value": 0
+        }]
+    },
+    "message": "获取成功"
+}

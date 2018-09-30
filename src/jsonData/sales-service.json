@@ -1,0 +1,390 @@
+{
+    "status": 1,
+    "data":
+    {
+        "list":
+        {
+            "sales_datas": [
+            {
+                "user_no": "YD00020",
+                "user_name": "吕金龙",
+                "id": "26",
+                "depart_name": "客服部"
+            },
+            {
+                "user_no": "YD00022",
+                "user_name": "吴益清",
+                "id": "28",
+                "depart_name": "客服二组"
+            },
+            {
+                "user_no": "YD00027",
+                "user_name": "潘红宇",
+                "id": "24",
+                "depart_name": "大客户"
+            },
+            {
+                "user_no": "YD00043",
+                "user_name": "王铭",
+                "id": "27",
+                "depart_name": "客服一组"
+            },
+            {
+                "user_no": "YD00060",
+                "user_name": "鲁梦园",
+                "id": "28",
+                "depart_name": "客服二组"
+            },
+            {
+                "user_no": "YD00066",
+                "user_name": "翟玮",
+                "id": "28",
+                "depart_name": "客服二组"
+            },
+            {
+                "user_no": "YD00070",
+                "user_name": "查胤",
+                "id": "48",
+                "depart_name": "客服三组"
+            },
+            {
+                "user_no": "YD00161",
+                "user_name": "姚二雄",
+                "id": "48",
+                "depart_name": "客服三组"
+            },
+            {
+                "user_no": "YD00166",
+                "user_name": "吴沛良",
+                "id": "49",
+                "depart_name": "客服四组"
+            },
+            {
+                "user_no": "YD00176",
+                "user_name": "张赛",
+                "id": "27",
+                "depart_name": "客服一组"
+            },
+            {
+                "user_no": "YD00177",
+                "user_name": "王实",
+                "id": "50",
+                "depart_name": "客服五组"
+            },
+            {
+                "user_no": "YD00182",
+                "user_name": "王震",
+                "id": "49",
+                "depart_name": "客服四组"
+            },
+            {
+                "user_no": "YD00190",
+                "user_name": "茅慧贤",
+                "id": "28",
+                "depart_name": "客服二组"
+            },
+            {
+                "user_no": "YD00193",
+                "user_name": "向茂斌",
+                "id": "49",
+                "depart_name": "客服四组"
+            },
+            {
+                "user_no": "YD00200",
+                "user_name": "闫刘明",
+                "id": "48",
+                "depart_name": "客服三组"
+            },
+            {
+                "user_no": "YD00204",
+                "user_name": "纪辉林",
+                "id": "50",
+                "depart_name": "客服五组"
+            },
+            {
+                "user_no": "YD00205",
+                "user_name": "张莲莲",
+                "id": "50",
+                "depart_name": "客服五组"
+            },
+            {
+                "user_no": "YD00241",
+                "user_name": "刘东彪",
+                "id": "50",
+                "depart_name": "客服五组"
+            },
+            {
+                "user_no": "YD77777",
+                "user_name": "宜电商城",
+                "id": "32",
+                "depart_name": "宜电商城"
+            }],
+            "service_datas": [
+            {
+                "user_no": "SW00123",
+                "user_name": "客服潘玲莉",
+                "id": "27",
+                "depart_name": "客服一组"
+            },
+            {
+                "user_no": "YD00001",
+                "user_name": "李小龙",
+                "id": "3",
+                "depart_name": "总经办"
+            },
+            {
+                "user_no": "YD00003",
+                "user_name": "郑旭强",
+                "id": "3",
+                "depart_name": "总经办"
+            },
+            {
+                "user_no": "YD00004",
+                "user_name": "周乾",
+                "id": "3",
+                "depart_name": "总经办"
+            },
+            {
+                "user_no": "YD00011",
+                "user_name": "魏兵",
+                "id": "3",
+                "depart_name": "总经办"
+            },
+            {
+                "user_no": "YD00020",
+                "user_name": "吕金龙",
+                "id": "26",
+                "depart_name": "客服部"
+            },
+            {
+                "user_no": "YD00022",
+                "user_name": "吴益清",
+                "id": "28",
+                "depart_name": "客服二组"
+            },
+            {
+                "user_no": "YD00027",
+                "user_name": "潘红宇",
+                "id": "24",
+                "depart_name": "大客户"
+            },
+            {
+                "user_no": "YD00043",
+                "user_name": "王铭",
+                "id": "27",
+                "depart_name": "客服一组"
+            },
+            {
+                "user_no": "YD00045",
+                "user_name": "马国强",
+                "id": "3",
+                "depart_name": "总经办"
+            },
+            {
+                "user_no": "YD00059",
+                "user_name": "夷亚娟",
+                "id": "28",
+                "depart_name": "客服二组"
+            },
+            {
+                "user_no": "YD00060",
+                "user_name": "鲁梦园",
+                "id": "28",
+                "depart_name": "客服二组"
+            },
+            {
+                "user_no": "YD00066",
+                "user_name": "翟玮",
+                "id": "28",
+                "depart_name": "客服二组"
+            },
+            {
+                "user_no": "YD00070",
+                "user_name": "查胤",
+                "id": "48",
+                "depart_name": "客服三组"
+            },
+            {
+                "user_no": "YD00080",
+                "user_name": "张兴",
+                "id": "25",
+                "depart_name": "开发部"
+            },
+            {
+                "user_no": "YD00091",
+                "user_name": "周丽",
+                "id": "45",
+                "depart_name": "大客户组"
+            },
+            {
+                "user_no": "YD00092",
+                "user_name": "陈洋",
+                "id": "48",
+                "depart_name": "客服三组"
+            },
+            {
+                "user_no": "YD00102",
+                "user_name": "林荣",
+                "id": "45",
+                "depart_name": "大客户组"
+            },
+            {
+                "user_no": "YD00106",
+                "user_name": "李宇寒",
+                "id": "45",
+                "depart_name": "大客户组"
+            },
+            {
+                "user_no": "YD00123",
+                "user_name": "潘玲莉",
+                "id": "3",
+                "depart_name": "总经办"
+            },
+            {
+                "user_no": "YD00160",
+                "user_name": "韩博文",
+                "id": "4",
+                "depart_name": "销售部"
+            },
+            {
+                "user_no": "YD00161",
+                "user_name": "姚二雄",
+                "id": "48",
+                "depart_name": "客服三组"
+            },
+            {
+                "user_no": "YD00166",
+                "user_name": "吴沛良",
+                "id": "49",
+                "depart_name": "客服四组"
+            },
+            {
+                "user_no": "YD00173",
+                "user_name": "姜新辉",
+                "id": "30",
+                "depart_name": "运营部"
+            },
+            {
+                "user_no": "YD00176",
+                "user_name": "张赛",
+                "id": "27",
+                "depart_name": "客服一组"
+            },
+            {
+                "user_no": "YD00177",
+                "user_name": "王实",
+                "id": "50",
+                "depart_name": "客服五组"
+            },
+            {
+                "user_no": "YD00178",
+                "user_name": "贺雅楠",
+                "id": "49",
+                "depart_name": "客服四组"
+            },
+            {
+                "user_no": "YD00182",
+                "user_name": "王震",
+                "id": "49",
+                "depart_name": "客服四组"
+            },
+            {
+                "user_no": "YD00186",
+                "user_name": "孙安静",
+                "id": "45",
+                "depart_name": "大客户组"
+            },
+            {
+                "user_no": "YD00190",
+                "user_name": "茅慧贤",
+                "id": "28",
+                "depart_name": "客服二组"
+            },
+            {
+                "user_no": "YD00193",
+                "user_name": "向茂斌",
+                "id": "49",
+                "depart_name": "客服四组"
+            },
+            {
+                "user_no": "YD00194",
+                "user_name": "许文娟",
+                "id": "28",
+                "depart_name": "客服二组"
+            },
+            {
+                "user_no": "YD00198",
+                "user_name": "宋荣妹",
+                "id": "49",
+                "depart_name": "客服四组"
+            },
+            {
+                "user_no": "YD00200",
+                "user_name": "闫刘明",
+                "id": "48",
+                "depart_name": "客服三组"
+            },
+            {
+                "user_no": "YD00204",
+                "user_name": "纪辉林",
+                "id": "50",
+                "depart_name": "客服五组"
+            },
+            {
+                "user_no": "YD00205",
+                "user_name": "张莲莲",
+                "id": "50",
+                "depart_name": "客服五组"
+            },
+            {
+                "user_no": "YD00206",
+                "user_name": "唐丹",
+                "id": "28",
+                "depart_name": "客服二组"
+            },
+            {
+                "user_no": "YD00213",
+                "user_name": "汤娟花",
+                "id": "27",
+                "depart_name": "客服一组"
+            },
+            {
+                "user_no": "YD00216",
+                "user_name": "钱怡玟",
+                "id": "48",
+                "depart_name": "客服三组"
+            },
+            {
+                "user_no": "YD00232",
+                "user_name": "汤秀娟",
+                "id": "50",
+                "depart_name": "客服五组"
+            },
+            {
+                "user_no": "YD00234",
+                "user_name": "殷彤",
+                "id": "27",
+                "depart_name": "客服一组"
+            },
+            {
+                "user_no": "YD00235",
+                "user_name": "王丛丛",
+                "id": "49",
+                "depart_name": "客服四组"
+            },
+            {
+                "user_no": "YD00241",
+                "user_name": "刘东彪",
+                "id": "50",
+                "depart_name": "客服五组"
+            },
+            {
+                "user_no": "YD00244",
+                "user_name": "张梦媚",
+                "id": "45",
+                "depart_name": "大客户组"
+            }]
+        }
+    },
+    "message": "获取成功"
+}
