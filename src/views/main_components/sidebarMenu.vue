@@ -7,12 +7,12 @@
         <template v-for="item in menuList">
             <Submenu :name="item.name" :key="item.path">
                 <template slot="title">
-                    <!-- <Icon :type="item.icon" :size="iconSize"></Icon> -->
+                    <Icon :type="item.icon" :size="iconSize"></Icon>
                     <span class="layout-text">{{ item.title }}</span>
                 </template>
                 <template v-for="child in item.children">
                     <MenuItem :name="child.name" :key="'menuitem' + child.name">
-                        <!-- <Icon :type="child.icon" :size="iconSize" :key="'icon' + child.name"></Icon> -->
+                        <Icon :type="child.icon" :size="iconSize" :key="'icon' + child.name"></Icon>
                         <span class="layout-text" :key="'title' + child.name">{{ child.title }}</span>
                     </MenuItem>
                 </template>
