@@ -19,4 +19,9 @@ $ npm run dev //启动本地项目
 ## Priview In browser 
 
 ![index](http://tiansuiziswjimg.oss-cn-beijing.aliyuncs.com/iview_admin/index.jpg)
+![echarts](http://tiansuiziswjimg.oss-cn-beijing.aliyuncs.com/iview_admin/1.jpg)
+![echarts](http://tiansuiziswjimg.oss-cn-beijing.aliyuncs.com/iview_admin/2.jpg)
+![echarts](http://tiansuiziswjimg.oss-cn-beijing.aliyuncs.com/iview_admin/3.jpg)
+![echarts](http://tiansuiziswjimg.oss-cn-beijing.aliyuncs.com/iview_admin/4.jpg)
+![echarts](http://tiansuiziswjimg.oss-cn-beijing.aliyuncs.com/iview_admin/5.jpg)
 
