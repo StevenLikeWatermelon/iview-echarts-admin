@@ -1,6 +1,6 @@
 # iview-echarts-admin
 
-基于iview-admin和echarts的一套企业大数据管理后台。可用于企业内部管理、业务大数据可视化管理分析。
+基于iview-admin和Echarts的一套企业大数据可视化管理后台模板。可用于企业内部管理、业务大数据可视化管理分析。
 
 ## Install
 
