@@ -10,7 +10,6 @@ import axios from 'axios';
 import App from './app.vue';
 import Cookies from 'js-cookie';
 import 'iview/dist/styles/iview.css';
-import currentConfig from './config/config';
 
 //自定义
 import { post, fetch, patch, put } from './config/fetch';
@@ -69,8 +68,8 @@ Vue.prototype.subtract = subtract;
 Vue.prototype.multiply = multiply;
 Vue.prototype.divide = divide;
 // 当前图片上传和接口前缀
-Vue.prototype.imgURL = currentConfig.imgURL;
-Vue.prototype.baseUrl = currentConfig.baseUrl;
+Vue.prototype.imgURL = 'http://localhost:3001/';
+Vue.prototype.baseUrl = 'http://localhost:3001/'
 
 // 路由配置
 const RouterConfig = {

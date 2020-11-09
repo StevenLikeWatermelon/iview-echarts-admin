@@ -82,6 +82,7 @@ app.get('/delete', function(req, res) {
 // 项目模拟接口开始
 // 登陆
 app.get('/login', function(req, res) {
+	console.log(2);
 	fs.readFile('src/jsonData/login.json', 'utf-8', function (err, data) {
 		if (err) {
 			res.send('读取文件失败!');

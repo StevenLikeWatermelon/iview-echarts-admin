@@ -1,9 +1,8 @@
 import axios from 'axios';
 import qs from 'qs';
-import currentConfig from './config';
 // axios 配置
 axios.defaults.timeout = 300000;
-axios.defaults.baseURL = currentConfig.baseUrl;
+axios.defaults.baseURL = 'http://localhost:3001/'
 
 // http request 拦截器
 axios.interceptors.request.use(
